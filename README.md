@@ -1,3 +1,5 @@
+💫💫 Hey this is my personal app, you can use guide to start it ❤❤
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
